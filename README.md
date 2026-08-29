@@ -1,4 +1,5 @@
 House Price Prediction
+
 This project predicts the estimated price of a house using a Machine Learning Linear Regression model. The application is built with Streamlit and displays the predicted house price in Indian Rupees.
 
 Project Overview
